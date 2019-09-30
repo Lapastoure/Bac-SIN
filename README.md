@@ -1,2 +1,2 @@
 # Bac-SIN
-Programme bac 
+Programme du bac simulation avec moteur d'une tête thermostatique
